@@ -1,79 +1,123 @@
-# 🩺 MedPrep Web — AI-Powered Medical Examination & Syllabus Testing Engine
+# 🩺 MedPrep Web — AI Clinical Vignette Generator & Medical Syllabus Ingestion Engine
+
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-8.1-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Generative%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
+[![PDF.js](https://img.shields.io/badge/PDF.js-Client--Side%20Parsing-E44D26?style=for-the-badge)](https://mozilla.github.io/pdf.js/)
+[![Mammoth](https://img.shields.io/badge/Mammoth-DOCX%20Extractor-blue?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
+[![Author](https://img.shields.io/badge/Author-Muhammad%20Okasha-blueviolet?style=for-the-badge)](https://github.com/muhammadokashapak)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-19.2+-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
-  <img src="https://img.shields.io/badge/Vite-8.1+-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Google_Gemini-AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/PDF.js-Client--Side-E44D26?style=for-the-badge" alt="PDF.js" />
-  <img src="https://img.shields.io/badge/Lucide_Icons-F43F5E?style=for-the-badge" alt="Lucide" />
+  <strong>Client-Side Document Parsing & Generative AI Synthesis for Dynamic High-Yield Medical Single-Best-Answer Examinations</strong>
 </p>
 
----
-
-## 📌 Overview
-
-**MedPrep Web** is an interactive, browser-based medical examination simulator and intelligent study platform designed for medical students, FCPS Part 1 candidates, and USMLE aspirants. 
-
-The application enables doctors and students to ingest medical literature, clinical guidelines, and high-yield notes directly from `.pdf` and `.docx` documents. Powered by **Google Gemini AI**, it dynamically synthesizes clinical vignette MCQs, timed mock examinations, flashcard drills, and deep conceptual explanations with zero server dependencies.
-
----
-
-## ✨ Core Features
-
-### 1. Document & Syllabus Ingestion
-- **Client-Side PDF Extraction:** Uses `pdfjs-dist` to parse medical textbook chapters and notes locally in the browser with high accuracy.
-- **Word Document (.docx) Parsing:** Uses `mammoth` to extract clean structured text, tables, and syllabi from lecture slides and documents.
-
-### 2. AI Clinical MCQ Generation
-- **Dynamic Question Synthesis:** Direct integration with Google Gemini Pro / Flash models to generate high-yield single-best-answer (SBA) MCQs based on uploaded study material.
-- **Detailed Clinical Rationale:** Each question provides an evidence-based explanation for the correct option and rationales debunking distractors.
-
-### 3. Examination & Mock Simulation
-- **Timed Exam Simulator:** Real-time countdown clock, question flagging, unanswered question trackers, and instant score summaries.
-- **Subject-Wise Filtering:** Practice by medical disciplines including Anatomy, Physiology, Pathology, Pharmacology, Surgery, Medicine, and Pediatrics.
-- **Performance Analytics:** Visual breakdowns of accuracy rates, time spent per clinical scenario, and weak topic identification.
+[📖 Overview](#-overview) •
+[🧠 Generative AI Pipeline](#-ai-ingestion--synthesis-pipeline) •
+[✨ Key Capabilities](#-key-capabilities) •
+[📂 Directory Structure](#-directory-structure) •
+[🚀 Quickstart](#-quickstart--setup) •
+[👨‍💻 Author](#-author--connect)
 
 ---
 
-## 🏗️ Tech Stack
+</div>
 
-- **Framework:** React 19 (Modern hooks and concurrent rendering)
-- **Bundler & Dev Server:** Vite 8
-- **Document Extractors:** `pdfjs-dist` (PDF extraction) & `mammoth` (DOCX parsing)
-- **AI Engine:** Google Gemini Generative AI API
-- **Icons & UI:** Lucide React & Tailwind CSS styling
+## 📖 Overview
+
+Medical knowledge expands exponentially every year. Standard medical question banks frequently take months or years to reflect new clinical trials, updated WHO guidelines, and revised disease staging criteria.
+
+**MedPrep Web** revolutionizes medical exam preparation through real-time Generative AI ingestion. Rather than relying solely on static static databases, doctors and students can upload any clinical guideline, medical textbook chapter (`.pdf`), or lecture summary (`.docx`). The platform parses the document locally in the browser and leverages **Google Gemini AI** to dynamically synthesize Board-standard Single-Best-Answer (SBA) clinical scenarios, complete with distractors and comprehensive evidence-based rationales.
 
 ---
 
-## 🚀 Getting Started
+## 🧠 AI Ingestion & Synthesis Pipeline
 
-### Prerequisites
-- Node.js 18+ & npm
-- A Google Gemini API Key ([Get one from Google AI Studio](https://aistudio.google.com/))
+```mermaid
+graph TD
+    subgraph Ingestion Layer (100% Client-Side)
+        U[User Uploads PDF Textbook / DOCX Notes] --> P1{File Extension}
+        P1 -->|*.pdf| PDF[PDF.js In-Memory Text Stream Parser]
+        P1 -->|*.docx| MAM[Mammoth DOCX Raw HTML & Text Extractor]
+        PDF --> CHUNK[Medical Section Chunking & Token Windowing]
+        MAM --> CHUNK
+    end
 
-### Installation
+    subgraph Generative Synthesis Layer
+        CHUNK --> PROMPT[Clinical Prompt Engineering & Medical Taxonomy Mapping]
+        PROMPT --> GEMINI[Google Gemini Pro / Flash AI API]
+        GEMINI --> JSON[Structured JSON Schema Validation]
+    end
+
+    subgraph Interactive Examination
+        JSON --> EXAM[Dynamic Timed MCQ Quiz Engine]
+        EXAM --> RAT[Evidence-Based Explanations & High-Yield Pearls]
+    end
+```
+
+---
+
+## ✨ Key Capabilities
+
+- 📄 **Universal Client-Side Document Ingestion:** Uses `pdfjs-dist` and `mammoth` to extract dense biomedical texts directly in browser RAM with zero third-party cloud file storage.
+- 🤖 **Board-Standard Clinical Scenario Generation:** Synthesizes realistic patient presentations (Age, Gender, Vitals, Chief Complaint, Lab Values, Imaging Findings).
+- 🎯 **Plausible Distractor Engineering:** Crafts sophisticated distractor options that test common diagnostic pitfalls and subtle differential diagnoses.
+- ⏱️ **Integrated Mock Examination Simulator:** Full countdown clock, flag question for review, instant score calculation, and missed questions breakdown.
+- 🔒 **Zero Data Retention:** Protects proprietary medical notes and unpublished syllabi since document processing never leaves the browser.
+
+---
+
+## 📂 Directory Structure
+
+```
+MedPrep-Web/
+│
+├── src/
+│   ├── utils/
+│   │   └── geminiApi.js       # Google Gemini Generative AI client & prompt templates
+│   ├── App.jsx                # Interactive examination interface & parser controller
+│   ├── main.jsx               # React 19 application bootstrap
+│   └── index.css              # Custom medical styling & responsive layout
+├── public/                    # Static assets & favicon
+├── package.json               # React 19, Vite, PDF.js, and Mammoth dependencies
+├── vite.config.js             # Vite 8 build & bundler configuration
+└── README.md                  # VIP Master Architecture Documentation
+```
+
+---
+
+## 🚀 Quickstart & Setup
+
+### 1. Clone & Install
 ```bash
-# Clone the repository
 git clone https://github.com/muhammadokashapak/MedPrep-Web.git
 cd MedPrep-Web
 
-# Install dependencies
 npm install
-
-# Configure environment variables
-# Create a .env file in the root directory:
-echo "VITE_GEMINI_API_KEY=your_gemini_api_key_here" > .env
-
-# Run development server
-npm run dev
 ```
 
-Open `http://localhost:5173` to launch MedPrep Web in your browser.
+### 2. Configure Gemini API Key
+Create a `.env` file in the root directory:
+```env
+VITE_GEMINI_API_KEY=your_google_gemini_api_key_here
+```
+
+### 3. Run Development Server
+```bash
+npm run dev
+```
+Open `http://localhost:5173` in your browser. Upload any medical PDF or DOCX file to generate your customized mock examination!
 
 ---
 
-## 🔒 Privacy & Offline Processing
-All document ingestion (PDF/DOCX) takes place strictly in the user's browser without uploading proprietary files to third-party web servers.
+## 👨‍💻 Author & Connect
+
+**Muhammad Okasha**  
+*AI & Medical Technology Software Architect*  
+- **GitHub:** [@muhammadokashapak](https://github.com/muhammadokashapak)
+- **Repository:** [MedPrep-Web](https://github.com/muhammadokashapak/MedPrep-Web)
 
 ---
 
