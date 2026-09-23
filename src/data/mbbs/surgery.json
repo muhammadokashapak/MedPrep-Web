@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "Surgery_1",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_2",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_3",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_4",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_5",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_6",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "Rovsing's sign positive",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_7",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods.",
+      "It is characterized by migratory pain to the right iliac fossa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_8",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_9",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_10",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_11",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_12",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_13",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_14",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_15",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods.",
+      "It is characterized by migratory pain to the right iliac fossa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_16",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_17",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_18",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "It is characterized by Murphy's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_19",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_20",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It is characterized by Murphy's sign positive.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_21",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_22",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_23",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_24",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_25",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_26",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_27",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_28",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_29",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_30",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_31",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_32",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_33",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_34",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "Rovsing's sign positive",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_35",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_36",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "Rovsing's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_37",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_38",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_39",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_40",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_41",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_42",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_43",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_44",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_45",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_46",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_47",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_48",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It is characterized by Murphy's sign positive.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_49",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_50",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_51",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_52",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_53",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_54",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_55",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_56",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It is characterized by Murphy's sign positive.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_57",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_58",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "Rovsing's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_59",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_60",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_61",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_62",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_63",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_64",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "Rovsing's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_65",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_66",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_67",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_68",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "Rovsing's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_69",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_70",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_71",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_72",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign.",
+      "It is characterized by Murphy's sign positive."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_73",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_74",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_75",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_76",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "It is characterized by Murphy's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_77",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_78",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_79",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_80",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "Rovsing's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_81",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_82",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_83",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_84",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_85",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods.",
+      "It is characterized by migratory pain to the right iliac fossa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_86",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "Rovsing's sign positive",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_87",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_88",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_89",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_90",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_91",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_92",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_93",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_94",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_95",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_96",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_97",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_98",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_99",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_100",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_101",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_102",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign.",
+      "It is characterized by Murphy's sign positive."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_103",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_104",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_105",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_106",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_107",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_108",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_109",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_110",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_111",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_112",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_113",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_114",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "Rovsing's sign positive",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_115",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_116",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_117",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_118",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign.",
+      "It is characterized by Murphy's sign positive."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_119",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_120",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign.",
+      "It is characterized by Murphy's sign positive."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_121",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_122",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_123",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_124",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_125",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_126",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "Rovsing's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_127",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_128",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_129",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_130",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_131",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_132",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_133",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_134",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_135",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_136",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_137",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_138",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_139",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_140",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_141",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_142",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_143",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_144",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_145",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_146",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_147",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_148",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "It is characterized by Murphy's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_149",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_150",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_151",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_152",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_153",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_154",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_155",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_156",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_157",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_158",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_159",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods",
+      "migratory pain to the right iliac fossa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_160",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "It is characterized by Murphy's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_161",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_162",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_163",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_164",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "It is a known medical concept.",
+      "Rovsing's sign positive",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_165",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_166",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_167",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_168",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_169",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_170",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_171",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_172",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_173",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_174",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_175",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "left upper quadrant severe pain"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_176",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "It is characterized by Murphy's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_177",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_178",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_179",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods.",
+      "It is characterized by migratory pain to the right iliac fossa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_180",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_181",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_182",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_183",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods.",
+      "It is characterized by migratory pain to the right iliac fossa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_184",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Murphy's sign positive",
+      "Grey Turner's sign"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_185",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_186",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is characterized by Murphy's sign positive.",
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_187",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "left upper quadrant severe pain",
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_188",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It is characterized by Murphy's sign positive.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_189",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_190",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign",
+      "Murphy's sign positive"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_191",
+    "text": "A 45-year-old patient presents with symptoms related to Acute Appendicitis. Which of the following findings is most likely expected?",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_192",
+    "text": "All of the following are true regarding Cholecystitis EXCEPT:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_193",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It is characterized by migratory pain to the right iliac fossa.",
+      "It manifests as pain relieved by eating fatty foods."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_194",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_195",
+    "text": "The primary mechanism underlying Acute Appendicitis involves:",
+    "options": [
+      "left upper quadrant severe pain",
+      "painless jaundice",
+      "migratory pain to the right iliac fossa",
+      "pain relieved by eating fatty foods"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_196",
+    "text": "Which of the following is the most accurate statement regarding Cholecystitis?",
+    "options": [
+      "It is primarily associated with Rovsing's sign positive.",
+      "A defining feature is Cullen's sign.",
+      "It is characterized by Murphy's sign positive.",
+      "It manifests as Grey Turner's sign."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_197",
+    "text": "Which of the following is the most accurate statement regarding Acute Appendicitis?",
+    "options": [
+      "It is primarily associated with left upper quadrant severe pain.",
+      "A defining feature is painless jaundice.",
+      "It manifests as pain relieved by eating fatty foods.",
+      "It is characterized by migratory pain to the right iliac fossa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_198",
+    "text": "A 45-year-old patient presents with symptoms related to Cholecystitis. Which of the following findings is most likely expected?",
+    "options": [
+      "Murphy's sign positive",
+      "Rovsing's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_199",
+    "text": "All of the following are true regarding Acute Appendicitis EXCEPT:",
+    "options": [
+      "migratory pain to the right iliac fossa",
+      "It is a known medical concept.",
+      "left upper quadrant severe pain",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Acute Appendicitis is: migratory pain to the right iliac fossa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  },
+  {
+    "id": "Surgery_200",
+    "text": "The primary mechanism underlying Cholecystitis involves:",
+    "options": [
+      "Rovsing's sign positive",
+      "Murphy's sign positive",
+      "Cullen's sign",
+      "Grey Turner's sign"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Cholecystitis is: Murphy's sign positive. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Surgery"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "Anatomy_1",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_2",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_3",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_4",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_5",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_6",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_7",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_8",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly.",
+      "It is characterized by containing the femoral nerve laterally."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_9",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_10",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "supplying the lower limb",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_11",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_12",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_13",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is characterized by arising from C5-T1 roots.",
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_14",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_15",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_16",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_17",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_18",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_19",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_20",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_21",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_22",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_23",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_24",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_25",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_26",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_27",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_28",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It is characterized by arising from C5-T1 roots.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_29",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_30",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_31",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_32",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is characterized by containing the femoral nerve laterally.",
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_33",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_34",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_35",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_36",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_37",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_38",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_39",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "supplying the spinal cord only"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_40",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_41",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_42",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_43",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_44",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_45",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_46",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_47",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly.",
+      "It is characterized by containing the femoral nerve laterally."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_48",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_49",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_50",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_51",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_52",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_53",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_54",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_55",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_56",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_57",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_58",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_59",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_60",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_61",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_62",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_63",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_64",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_65",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_66",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_67",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_68",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_69",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "supplying the spinal cord only",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_70",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_71",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_72",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_73",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_74",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_75",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_76",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_77",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_78",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_79",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_80",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_81",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_82",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_83",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_84",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_85",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It is characterized by arising from C5-T1 roots.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_86",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is characterized by containing the femoral nerve laterally.",
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_87",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_88",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_89",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_90",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_91",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_92",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_93",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_94",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_95",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_96",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_97",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_98",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "bounded by the inguinal ligament medially"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_99",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_100",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_101",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "bounded by the inguinal ligament medially"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_102",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_103",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_104",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_105",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_106",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_107",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_108",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_109",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_110",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_111",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_112",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_113",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "bounded by the inguinal ligament medially"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_114",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_115",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "supplying the lower limb",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_116",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_117",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_118",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_119",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_120",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_121",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_122",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_123",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_124",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "supplying the lower limb",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_125",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly.",
+      "It is characterized by containing the femoral nerve laterally."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_126",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_127",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_128",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "bounded by the inguinal ligament medially",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_129",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_130",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_131",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_132",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_133",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "supplying the lower limb"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_134",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_135",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "supplying the spinal cord only",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_136",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius.",
+      "It is characterized by arising from C5-T1 roots."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_137",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "bounded by the inguinal ligament medially",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_138",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_139",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_140",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_141",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_142",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_143",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_144",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_145",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is characterized by arising from C5-T1 roots.",
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_146",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_147",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "supplying the spinal cord only",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_148",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_149",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "bounded by the inguinal ligament medially"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_150",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_1",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius.",
+      "It is characterized by arising from C5-T1 roots."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_2",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_3",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_4",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_5",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_6",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_7",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_8",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_9",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_10",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius.",
+      "It is characterized by arising from C5-T1 roots."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_11",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_12",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_13",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_14",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_15",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_16",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "supplying the lower limb"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_17",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_18",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_19",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_20",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is characterized by containing the femoral nerve laterally.",
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_21",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_22",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "supplying the lower limb",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_23",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_24",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_25",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_26",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_27",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "supplying the spinal cord only",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_28",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_29",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_30",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_31",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It is characterized by arising from C5-T1 roots.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_32",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_33",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_34",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_35",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is characterized by containing the femoral nerve laterally.",
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_36",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_37",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_38",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly.",
+      "It is characterized by containing the femoral nerve laterally."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_39",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_40",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_41",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_42",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "formed by internal carotid and vertebral arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_43",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_44",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_45",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_46",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_47",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_48",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_49",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_50",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_51",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_52",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_53",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_54",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_55",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_56",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "It is characterized by containing the femoral nerve laterally.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_57",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_58",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_59",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_60",
+    "text": "The primary mechanism underlying Circle of Willis involves:",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_61",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius.",
+      "It is characterized by arising from C5-T1 roots."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_62",
+    "text": "Which of the following is the most accurate statement regarding Femoral Triangle?",
+    "options": [
+      "It is primarily associated with bounded by the inguinal ligament medially.",
+      "A defining feature is containing the popliteal artery.",
+      "It manifests as having the apex pointing superiorly.",
+      "It is characterized by containing the femoral nerve laterally."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_63",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_64",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_65",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_66",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_67",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_68",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_69",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "supplying the spinal cord only"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_70",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_71",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_72",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_73",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "arising from C5-T1 roots",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_74",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_75",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_76",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_77",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "bounded by the inguinal ligament medially",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_78",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "It is a known medical concept.",
+      "supplying the spinal cord only",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_79",
+    "text": "The primary mechanism underlying Brachial Plexus involves:",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_80",
+    "text": "A 45-year-old patient presents with symptoms related to Femoral Triangle. Which of the following findings is most likely expected?",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_81",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_82",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius",
+      "arising from C5-T1 roots"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_83",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "containing the femoral nerve laterally",
+      "having the apex pointing superiorly"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_84",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "formed by internal carotid and vertebral arteries",
+      "lacking communicating arteries",
+      "located in the posterior fossa"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_85",
+    "text": "Which of the following is the most accurate statement regarding Brachial Plexus?",
+    "options": [
+      "It is primarily associated with supplying the lower limb.",
+      "It is characterized by arising from C5-T1 roots.",
+      "A defining feature is originating from cranial nerves.",
+      "It manifests as lying behind the scalenus medius."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_86",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_87",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_88",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_89",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "bounded by the inguinal ligament medially"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_90",
+    "text": "All of the following are true regarding Circle of Willis EXCEPT:",
+    "options": [
+      "formed by internal carotid and vertebral arteries",
+      "supplying the spinal cord only",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_91",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_92",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "bounded by the inguinal ligament medially",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_93",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It manifests as located in the posterior fossa.",
+      "It is characterized by formed by internal carotid and vertebral arteries."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_94",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_95",
+    "text": "The primary mechanism underlying Femoral Triangle involves:",
+    "options": [
+      "bounded by the inguinal ligament medially",
+      "containing the popliteal artery",
+      "having the apex pointing superiorly",
+      "containing the femoral nerve laterally"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_96",
+    "text": "A 45-year-old patient presents with symptoms related to Circle of Willis. Which of the following findings is most likely expected?",
+    "options": [
+      "supplying the spinal cord only",
+      "lacking communicating arteries",
+      "located in the posterior fossa",
+      "formed by internal carotid and vertebral arteries"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_97",
+    "text": "All of the following are true regarding Brachial Plexus EXCEPT:",
+    "options": [
+      "supplying the lower limb",
+      "arising from C5-T1 roots",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_98",
+    "text": "All of the following are true regarding Femoral Triangle EXCEPT:",
+    "options": [
+      "containing the femoral nerve laterally",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "bounded by the inguinal ligament medially"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Femoral Triangle is: containing the femoral nerve laterally. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_99",
+    "text": "Which of the following is the most accurate statement regarding Circle of Willis?",
+    "options": [
+      "It is primarily associated with supplying the spinal cord only.",
+      "A defining feature is lacking communicating arteries.",
+      "It is characterized by formed by internal carotid and vertebral arteries.",
+      "It manifests as located in the posterior fossa."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Circle of Willis is: formed by internal carotid and vertebral arteries. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  },
+  {
+    "id": "Anatomy_100",
+    "text": "A 45-year-old patient presents with symptoms related to Brachial Plexus. Which of the following findings is most likely expected?",
+    "options": [
+      "arising from C5-T1 roots",
+      "supplying the lower limb",
+      "originating from cranial nerves",
+      "lying behind the scalenus medius"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Brachial Plexus is: arising from C5-T1 roots. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Anatomy"
+  }
+]

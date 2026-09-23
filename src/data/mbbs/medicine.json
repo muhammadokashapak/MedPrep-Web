@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "Medicine_1",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_2",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_3",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_4",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_5",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_6",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_7",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_8",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "irreversible restrictive pattern"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_9",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_10",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_11",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_12",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_13",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_14",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_15",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_16",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_17",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_18",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_19",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_20",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_21",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_22",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing.",
+      "It is characterized by reversible airway obstruction."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_23",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_24",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_25",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_26",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_27",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_28",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_29",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_30",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It is characterized by reversible airway obstruction.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_31",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_32",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_33",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_34",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_35",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_36",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_37",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_38",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_39",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_40",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_41",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_42",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_43",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_44",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_45",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_46",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_47",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_48",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_49",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_50",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_51",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_52",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_53",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_54",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_55",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_56",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_57",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_58",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_59",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_60",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_61",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_62",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_63",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_64",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_65",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_66",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_67",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_68",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_69",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_70",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing.",
+      "It is characterized by reversible airway obstruction."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_71",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_72",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_73",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_74",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_75",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_76",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_77",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_78",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_79",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_80",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_81",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_82",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_83",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_84",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_85",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_86",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_87",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_88",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_89",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_90",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_91",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_92",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_93",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_94",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_95",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_96",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_97",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_98",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_99",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_100",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_101",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_102",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_103",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_104",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_105",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_106",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_107",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_108",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_109",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_110",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_111",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_112",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "irreversible restrictive pattern"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_113",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_114",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_115",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_116",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_117",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_118",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_119",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_120",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_121",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_122",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "irreversible restrictive pattern"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_123",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_124",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_125",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_126",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_127",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_128",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_129",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_130",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing.",
+      "It is characterized by reversible airway obstruction."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_131",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_132",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_133",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_134",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_135",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_136",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_137",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_138",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_139",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_140",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_141",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_142",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_143",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_144",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_145",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_146",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing.",
+      "It is characterized by reversible airway obstruction."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_147",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_148",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "It is characterized by reversible airway obstruction.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_149",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_150",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_151",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_152",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_153",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_154",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_155",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_156",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_157",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_158",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_159",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_160",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_161",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_162",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_163",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_164",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "irreversible restrictive pattern",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_165",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus.",
+      "It is characterized by ST-elevation on ECG with positive troponins."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_166",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_167",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_168",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_169",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_170",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "irreversible restrictive pattern"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_171",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_172",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_173",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "normal ECG and cardiac enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_174",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is characterized by reversible airway obstruction.",
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_175",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_176",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_177",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "normal ECG and cardiac enzymes",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_178",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing.",
+      "It is characterized by reversible airway obstruction."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_179",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_180",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "It is characterized by reversible airway obstruction.",
+      "A defining feature is fixed bronchial dilation.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_181",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_182",
+    "text": "Which of the following is the most accurate statement regarding Asthma?",
+    "options": [
+      "It is primarily associated with irreversible restrictive pattern.",
+      "A defining feature is fixed bronchial dilation.",
+      "It is characterized by reversible airway obstruction.",
+      "It manifests as absence of wheezing."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_183",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_184",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_185",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_186",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "reversible airway obstruction",
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_187",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_188",
+    "text": "All of the following are true regarding Asthma EXCEPT:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_189",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "ST-elevation on ECG with positive troponins",
+      "pulsus paradoxus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_190",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_191",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_192",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_193",
+    "text": "Which of the following is the most accurate statement regarding Myocardial Infarction?",
+    "options": [
+      "It is primarily associated with normal ECG and cardiac enzymes.",
+      "It is characterized by ST-elevation on ECG with positive troponins.",
+      "A defining feature is pain relieved immediately by rest.",
+      "It manifests as pulsus paradoxus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_194",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_195",
+    "text": "The primary mechanism underlying Myocardial Infarction involves:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus",
+      "ST-elevation on ECG with positive troponins"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_196",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "reversible airway obstruction",
+      "absence of wheezing"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_197",
+    "text": "All of the following are true regarding Myocardial Infarction EXCEPT:",
+    "options": [
+      "normal ECG and cardiac enzymes",
+      "ST-elevation on ECG with positive troponins",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_198",
+    "text": "A 45-year-old patient presents with symptoms related to Asthma. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversible restrictive pattern",
+      "fixed bronchial dilation",
+      "absence of wheezing",
+      "reversible airway obstruction"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_199",
+    "text": "A 45-year-old patient presents with symptoms related to Myocardial Infarction. Which of the following findings is most likely expected?",
+    "options": [
+      "ST-elevation on ECG with positive troponins",
+      "normal ECG and cardiac enzymes",
+      "pain relieved immediately by rest",
+      "pulsus paradoxus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Myocardial Infarction is: ST-elevation on ECG with positive troponins. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  },
+  {
+    "id": "Medicine_200",
+    "text": "The primary mechanism underlying Asthma involves:",
+    "options": [
+      "irreversible restrictive pattern",
+      "reversible airway obstruction",
+      "fixed bronchial dilation",
+      "absence of wheezing"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Asthma is: reversible airway obstruction. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Medicine"
+  }
+]

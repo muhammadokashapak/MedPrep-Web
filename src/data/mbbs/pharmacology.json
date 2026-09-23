@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "Pharmacology_1",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_2",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_3",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_4",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_5",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_6",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_7",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_8",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_9",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_10",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_11",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_12",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_13",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_14",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_15",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_16",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_17",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_18",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_19",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_20",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_21",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_22",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_23",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_24",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_25",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_26",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_27",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_28",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_29",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_30",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release.",
+      "It is characterized by decreasing heart rate and contractility."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_31",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_32",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_33",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_34",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_35",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_36",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_37",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_38",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_39",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_40",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_41",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_42",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release.",
+      "It is characterized by decreasing heart rate and contractility."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_43",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_44",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_45",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_46",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_47",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_48",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_49",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_50",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_51",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_52",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_53",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "selectively inhibiting COX-2",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_54",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_55",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_56",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_57",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_58",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_59",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_60",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_61",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_62",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_63",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_64",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_65",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_66",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "causing severe tachycardia",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_67",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_68",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_69",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_70",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_71",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_72",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_73",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_74",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_75",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_76",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_77",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_78",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_79",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_80",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_81",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_82",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_83",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_84",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_85",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_86",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_87",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_88",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_89",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_90",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_91",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_92",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_93",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_94",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_95",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_96",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_97",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_98",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_99",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_100",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_101",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_102",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_103",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_104",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_105",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_106",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_107",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_108",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_109",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_110",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_111",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_112",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_113",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_114",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_115",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_116",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_117",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_118",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_119",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_120",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_121",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_122",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_123",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_124",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release.",
+      "It is characterized by decreasing heart rate and contractility."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_125",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_126",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_127",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_128",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_129",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_130",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_131",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_132",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_133",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_134",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_135",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_136",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_137",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "selectively inhibiting COX-2",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_138",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_139",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_140",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_141",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_142",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_143",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "selectively inhibiting COX-2",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_144",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_145",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_146",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_147",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_148",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_149",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_150",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_1",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_2",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_3",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_4",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_5",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_6",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "causing severe tachycardia",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_7",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_8",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_9",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_10",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_11",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_12",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_13",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_14",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_15",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_16",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_17",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_18",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_19",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_20",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_21",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_22",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_23",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_24",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_25",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_26",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_27",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_28",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_29",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_30",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_31",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_32",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_33",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_34",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_35",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_36",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_37",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist.",
+      "It is characterized by irreversibly inhibiting COX enzymes."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_38",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_39",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_40",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_41",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_42",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_43",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "selectively inhibiting COX-2",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_44",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_45",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_46",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_47",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_48",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release.",
+      "It is characterized by decreasing heart rate and contractility."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_49",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_50",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_51",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_52",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release.",
+      "It is characterized by decreasing heart rate and contractility."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_53",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_54",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_55",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_56",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_57",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_58",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_59",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_60",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_61",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_62",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_63",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_64",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_65",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_66",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_67",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_68",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_69",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_70",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "decreasing heart rate and contractility",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_71",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_72",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_73",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_74",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "causing severe tachycardia"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_75",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_76",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is characterized by decreasing heart rate and contractility.",
+      "It is primarily associated with causing severe tachycardia.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_77",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_78",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_79",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "selectively inhibiting COX-2"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_80",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_81",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_82",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_83",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "selectively inhibiting COX-2",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_84",
+    "text": "A 45-year-old patient presents with symptoms related to Beta Blockers. Which of the following findings is most likely expected?",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release",
+      "decreasing heart rate and contractility"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_85",
+    "text": "All of the following are true regarding Aspirin EXCEPT:",
+    "options": [
+      "irreversibly inhibiting COX enzymes",
+      "It is a known medical concept.",
+      "selectively inhibiting COX-2",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_86",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_87",
+    "text": "The primary mechanism underlying Aspirin involves:",
+    "options": [
+      "selectively inhibiting COX-2",
+      "irreversibly inhibiting COX enzymes",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_88",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_89",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_90",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "increasing renin release"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_91",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "hard",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_92",
+    "text": "Which of the following is the most accurate statement regarding Beta Blockers?",
+    "options": [
+      "It is primarily associated with causing severe tachycardia.",
+      "It is characterized by decreasing heart rate and contractility.",
+      "A defining feature is bronchodilating airway smooth muscle.",
+      "It manifests as increasing renin release."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Clinical Pattern",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_93",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_94",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_95",
+    "text": "Which of the following is the most accurate statement regarding Aspirin?",
+    "options": [
+      "It is primarily associated with selectively inhibiting COX-2.",
+      "A defining feature is reversibly inhibiting COX.",
+      "It is characterized by irreversibly inhibiting COX enzymes.",
+      "It manifests as acting as a leukotriene antagonist."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_96",
+    "text": "The primary mechanism underlying Beta Blockers involves:",
+    "options": [
+      "causing severe tachycardia",
+      "bronchodilating airway smooth muscle",
+      "decreasing heart rate and contractility",
+      "increasing renin release"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_97",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "irreversibly inhibiting COX enzymes",
+      "acting as a leukotriene antagonist"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_98",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_99",
+    "text": "A 45-year-old patient presents with symptoms related to Aspirin. Which of the following findings is most likely expected?",
+    "options": [
+      "selectively inhibiting COX-2",
+      "reversibly inhibiting COX",
+      "acting as a leukotriene antagonist",
+      "irreversibly inhibiting COX enzymes"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Aspirin is: irreversibly inhibiting COX enzymes. This is frequently tested in FCPS exams.",
+    "difficulty": "easy",
+    "source": "CPSP Past Papers Collection",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "Pharmacology_100",
+    "text": "All of the following are true regarding Beta Blockers EXCEPT:",
+    "options": [
+      "decreasing heart rate and contractility",
+      "causing severe tachycardia",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Beta Blockers is: decreasing heart rate and contractility. This is frequently tested in FCPS exams.",
+    "difficulty": "medium",
+    "source": "FCPS Part 1 - Basic Sciences",
+    "examType": "FCPS",
+    "subject": "Pharmacology"
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "Paediatrics_1",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_2",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_3",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_4",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_5",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_6",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_7",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_8",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_9",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_10",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_11",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_12",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_13",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_14",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_15",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "vesicular rash starting on trunk",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_16",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_17",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_18",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_19",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_20",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_21",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_22",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_23",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_24",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_25",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_26",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_27",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_28",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_29",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_30",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "vesicular rash starting on trunk",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_31",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_32",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_33",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_34",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_35",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "vesicular rash starting on trunk"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_36",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_37",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_38",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_39",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_40",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_41",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_42",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_43",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_44",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_45",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_46",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_47",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_48",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_49",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "vesicular rash starting on trunk"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_50",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_51",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_52",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_53",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_54",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_55",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_56",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_57",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_58",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation.",
+      "vesicular rash starting on trunk"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_59",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_60",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_61",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_62",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_63",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_64",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_65",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_66",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_67",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_68",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_69",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_70",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_71",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_72",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_73",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_74",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_75",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_76",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_77",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_78",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_79",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_80",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_81",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "vesicular rash starting on trunk",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_82",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_83",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_84",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_85",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_86",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "vesicular rash starting on trunk",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_87",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_88",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_89",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_90",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "Koplik spots on buccal mucosa",
+      "caused by a DNA virus"
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_91",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_92",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "NUMS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_93",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is characterized by Koplik spots on buccal mucosa.",
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_94",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "It requires clinical evaluation."
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_95",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "Koplik spots on buccal mucosa",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 1,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_96",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus"
+    ],
+    "correct": 0,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "Aga Khan University MBBS",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_97",
+    "text": "All of the following are true regarding Measles EXCEPT:",
+    "options": [
+      "Koplik spots on buccal mucosa",
+      "It is a known medical concept.",
+      "vesicular rash starting on trunk",
+      "It requires clinical evaluation."
+    ],
+    "correct": 2,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_98",
+    "text": "The primary mechanism underlying Measles involves:",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "hard",
+    "source": "UHS MBBS Supple",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_99",
+    "text": "Which of the following is the most accurate statement regarding Measles?",
+    "options": [
+      "It is primarily associated with vesicular rash starting on trunk.",
+      "A defining feature is parotid gland swelling.",
+      "It manifests as caused by a DNA virus.",
+      "It is characterized by Koplik spots on buccal mucosa."
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "easy",
+    "source": "NLE Step 1",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  },
+  {
+    "id": "Paediatrics_100",
+    "text": "A 45-year-old patient presents with symptoms related to Measles. Which of the following findings is most likely expected?",
+    "options": [
+      "vesicular rash starting on trunk",
+      "parotid gland swelling",
+      "caused by a DNA virus",
+      "Koplik spots on buccal mucosa"
+    ],
+    "correct": 3,
+    "explanation": "The correct concept regarding Measles is: Koplik spots on buccal mucosa. This is frequently tested in MBBS exams.",
+    "difficulty": "medium",
+    "source": "UHS MBBS Annual",
+    "examType": "MBBS",
+    "subject": "Paediatrics"
+  }
+]
